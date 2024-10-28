@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SholeyBhai
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning HTML
+- 👋 Hi, I’m Rampratap Yadav
+- 👀 I’m pursuing  b.tech in CSE-Ai 
+- 🌱 I’m currently learning How does everything works
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Sholey_bhai everywhere 
 - 😄 Pronouns: I am just a boy not a Developer 
