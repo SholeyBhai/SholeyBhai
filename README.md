@@ -1,12 +1,18 @@
-- 👋 Hi, I’m Rampratap Yadav
-- 👀 I’m pursuing  b.tech in CSE-Ai 
-- 🌱 I’m currently learning How does everything works
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @Sholey_bhai everywhere 
-- 😄 Pronouns: I am just a boy not a Developer 
-- ⚡ Fun fact: A developer or coder can't edit his Own life
+Hi, I'm Rampratap 👋
 
-<!---
-SholeyBhai/SholeyBhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSE (AI)
+💻 Learning Computer Science
+☕ Currently learning Java
+🐍 Exploring Python
+🌐 Exploring Web Development
+🐧 Learning Linux
+🌐 Learning Computer Networks
+🤖 Future focus: AI / ML
+
+## My Journey
+
+Learning → Building → Breaking → Fixing → Improving
+
+## Current Focus
+
+Java + DSA + Core Computer Science
