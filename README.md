@@ -16,6 +16,3 @@ Learning → Building → Breaking → Fixing → Improving
 ## Current Focus
 
 Java + DSA + Core Computer Science
-## 🔥 My Coding Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SholeyBhai)
